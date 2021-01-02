@@ -1,5 +1,3 @@
-Resources 
-
 **Place downloads in /opt folder**
 
 \*\*AS A BEGINNER DO NOT ENABLE THE ABILITY TO LOGIN AS ROOT IN KALI! \*\*

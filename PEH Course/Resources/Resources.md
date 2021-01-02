@@ -12,7 +12,7 @@ KaliLinux : https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-
 
 Pimp My Kali: https://github.com/Dewalt-arch/pimpmykali
 
-\*\*CLI Installations \*\*
+**CLI Installations**
 
 apt update && apt upgrade: update and upgrade software
 

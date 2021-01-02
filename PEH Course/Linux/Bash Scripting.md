@@ -2,8 +2,6 @@ Bash Scripting
 
 **Ping sweep**
 
-192.168.0.1
-
 \- ping device and if device is alive, sweep
 
 \- c : count

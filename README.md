@@ -1,4 +1,4 @@
-# Practical-Ethical-Hacking
+#Ethical Hacking Notebook 
 
 In preparation for the OSCP exam I compiled notes on essential tools an resources for peneteration testing and reporting. 
 
